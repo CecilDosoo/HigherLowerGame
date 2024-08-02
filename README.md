@@ -1,5 +1,7 @@
 # HigherLowerGame
 
-Python program made on the basis of the Higher and Lower game. It uses the data of famous Instagram accounts and compares their followers with each others. If the guess is made right, game continues, else game ends.
-Used mutiple files to show the ability to pull data from mutiple files into main
-Also showed the skills to manipulate data to collect the exact information you need as a variable - In this case the follower count
+- Developed a Python program based on the "Higher or Lower" game, utilizing data from famous Instagram accounts to compare their follower counts. The game continues with correct guesses and ends with incorrect ones.
+
+- Demonstrated proficiency in modular programming by sourcing data from multiple files and integrating it into the main program.
+
+- Showcased data manipulation skills by extracting and utilizing specific information, such as follower counts, as variables in the game.
